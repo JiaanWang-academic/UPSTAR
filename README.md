@@ -95,7 +95,7 @@ UPSTAR/
 ```bibtex
 @article{xu2026upstar,
   title   = {A User Purchase Motivation-Aware Product Recommender System},
-  author  = {Xu, Jiarong and Wang, Jiaan and Zhang, Hongzhe and others},
+  author  = {Xu, Jiarong and Wang, Jiaan and Zhang, Hongzhe and Tian Lu},
   journal = {Information Systems Research},
   year    = {2026},
   doi     = {10.1287/isre.2024.1028}
