@@ -1,9 +1,9 @@
 # UPSTAR
 
-Implementation of the **U**ser **P**urchase motivation-aware **STAR** recommender (**UPSTAR**) and the **STB** (Stability-of-Behavior) purchase-motivation measure.
+Implementation of paper "A User Purchase Motivation-Aware Product Recommender System"
 
-> **A User Purchase Motivation-Aware Product Recommender System**
-> Jiarong Xu, Jiaan Wang, Hongzhe Zhang, et al.
+> **A User Purchase Motivation-Aware Product Recommender System**.
+> Jiarong Xu, Jiaan Wang, Hongzhe Zhang and Tian Lu.
 > *Information Systems Research (ISR)*, 2026.
 > DOI: [10.1287/isre.2024.1028](https://doi.org/10.1287/isre.2024.1028)
 
